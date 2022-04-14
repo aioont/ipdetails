@@ -10,3 +10,16 @@ USAGE:
  Using two API 
     1.http://ipwhois.app/json/
     2.https://ident.me
+## How to use in linux (Python3)
+> wget https://raw.githubusercontent.com/aioont/ipdetails/main/main.py
+
+> python3 main.py
+
+## Windows (Python3 must be installed)
+ 1.Downlaod main.py
+ 
+ 2.Open cmd type main.py and hit enter
+ 
+## Share a link to get details 
+
+Coming soon...!
