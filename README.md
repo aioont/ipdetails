@@ -1,7 +1,7 @@
 # Find location using IP address 
 Find device private,public IP address and its information. 
 
-Execute this file to get a device ip public and private ip address.Using API fetch some informaion includig  location,,countr,ISP,timezone,etc.
+Execute this file to get a device ip public and private ip address.Using API to fetch some informaion includig  location,countr,ISP,timezone,etc.
 
 USAGE:
  
