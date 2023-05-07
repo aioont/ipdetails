@@ -15,6 +15,7 @@ USAGE:
     
     
 ## How to use in linux (Python3)
+> git clone https://github.com/aioont/ipdetails  
 > wget https://raw.githubusercontent.com/aioont/ipdetails/main/main.py
 
 > python3 main.py
